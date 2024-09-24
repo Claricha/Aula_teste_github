@@ -1,0 +1,39 @@
+.texto{
+    width: 1000px;
+    margin: auto;
+    text-align: justify;
+}
+
+body{
+    background-color:rgb(245, 220, 238)
+}
+p{
+    font-size: 20px;
+}
+    
+
+img{
+    margin: auto;
+    width: 1000px;
+}
+.menu{
+    background-color: black;
+    width: 100%;
+    height: 50px;
+}
+
+.MenuLista{
+    color: cadetblue;
+text-align: center;
+list-style-type: none;
+display: flex;
+justify-content: center;
+}
+.MenuLista> li{
+    padding: 10px;
+}
+.footer{
+    background-color: rgb(29, 28, 28);
+    color: azure;
+    text-align: center;
+}
